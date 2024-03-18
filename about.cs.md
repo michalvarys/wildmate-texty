@@ -1,4 +1,4 @@
-Co je Yerba Maté?
+# Co je Yerba Maté?
 
 Yerba Mate je tradiční nápoj, který má své kořeny v jižní Americe, konkrétně v zemích jako Argentina, Uruguay, Paraguay a Brazílie. Jedná se o přírodní stimulant, který je získáván z listů stromu mate (Ilex paraguariensis). Tento strom produkuje listy bohaté na živiny, které se sbírají, suší a následně mohou být připraveny různými způsoby – tradičně se připravuje jako horký nápoj v kalabaskách, které jsou často zdobeny ručně vyřezávanými vzory.
 
