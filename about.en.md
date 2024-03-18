@@ -1,4 +1,4 @@
-What is Mate?
+# What is Mate?
 
 Yerba Mate is a traditional drink that has its roots in South America, specifically in countries such as Argentina, Uruguay, Paraguay and Brazil. It is a natural stimulant that is extracted from the leaves of the mate tree (Ilex paraguariensis). This tree produces nutrient-rich leaves that are collected, dried and then can be prepared in a variety of ways - traditionally prepared as a hot drink in calabashes, which are often decorated with hand-carved designs.
 
