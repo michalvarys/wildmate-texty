@@ -1,4 +1,4 @@
-Was ist Mate?
+# Was ist Mate?
 
 Yerba Mate ist ein traditionelles Getränk, das seine Wurzeln in Südamerika hat, genau gesagt in Ländern wie Argentinien, Uruguay, Paraguay und Brasilien. Es handelt sich um ein natürliches Stimulans, das aus Blättern des Mate-Baumes (llex paraguariensis) gewonnen wird. Dieser Baum produziert nährstoffreiche Blätter, die gesammelt, getrocknet und dann auf verschiedene Weise zubereitet werden – traditionell als Heißgetränk in Kalebassen (=Gefäß aus ausgehöhlten und getrockneten Hüllen des Flaschenkürbisses) zubereitet, die oft mit handgeschnitzten Mustern verziert sind.
 
