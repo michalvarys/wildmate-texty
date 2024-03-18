@@ -2,6 +2,10 @@
 
 Yerba Mate je tradiční nápoj, který má své kořeny v jižní Americe, konkrétně v zemích jako Argentina, Uruguay, Paraguay a Brazílie. Jedná se o přírodní stimulant, který je získáván z listů stromu mate (Ilex paraguariensis). Tento strom produkuje listy bohaté na živiny, které se sbírají, suší a následně mohou být připraveny různými způsoby – tradičně se připravuje jako horký nápoj v kalabaskách, které jsou často zdobeny ručně vyřezávanými vzory.
 
-Yerba Mate je oblíbený pro své pozitivní účinky na tělo a mysl. Obsahuje řadu přínosných živin, včetně vitamínů (A, C, E, B-komplex), minerálů (vápník, železo, draslík) a antioxidantů.
+Yerba Mate je oblíbený pro své pozitivní účinky na tělo a mysl. **Obsahuje řadu přínosných živin,** včetně vitamínů (A, C, E, B-komplex), minerálů (vápník, železo, draslík) a antioxidantů.
 
 Naše Yerba Mate limonáda spojuje ojedinělá chut šípku s blahodárnými účinky Yerba Mate. Tento nápoj nabízí skvělý způsob, jak si vychutnat chuť a přínosy Yerba Mate bez nutnosti připravovat horký nápoj. Získáte tak energii a vitalitu, kterou potřebujete, spolu s osvěžujícím a hydratačním účinkem limonády.
+
+- lorem ipsum dolor sit amet
+- lorem ipsum dolor sit amet
+- lorem ipsum dolor sit amet
