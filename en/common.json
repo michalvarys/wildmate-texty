@@ -1,0 +1,14 @@
+{
+    "Name": "Name",
+    "Email": "Email",
+    "Message": "Message",
+    "field is required": "Field {name} is required",
+    "Loading": "Loading",
+    "Send": "Send",
+    "Your name": "Your name",
+    "Email address": "Email address",
+    "Error": "Error",
+    "Success": "Success",
+    "Warning": "Warning",
+    "Sending": "Sending"
+}

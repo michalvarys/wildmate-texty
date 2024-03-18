@@ -1,0 +1,14 @@
+{
+    "Name": "Jméno",
+    "Email": "Email",
+    "Message": "Zpráva",
+    "field is required": "Pole {name} je vyžadováno",
+    "Loading": "Nahrávám",
+    "Send": "Odeslat",
+    "Your name": "Vaše jméno",
+    "Email address": "Emailová adresa",
+    "Error": "Chyba",
+    "Success": "Úspěch",
+    "Warning": "Varování",
+    "Sending": "Odesílám"
+}

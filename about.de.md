@@ -1,0 +1,7 @@
+Was ist Mate?
+
+Yerba Mate ist ein traditionelles Getränk, das seine Wurzeln in Südamerika hat, genau gesagt in Ländern wie Argentinien, Uruguay, Paraguay und Brasilien. Es handelt sich um ein natürliches Stimulans, das aus Blättern des Mate-Baumes (llex paraguariensis) gewonnen wird. Dieser Baum produziert nährstoffreiche Blätter, die gesammelt, getrocknet und dann auf verschiedene Weise zubereitet werden – traditionell als Heißgetränk in Kalebassen (=Gefäß aus ausgehöhlten und getrockneten Hüllen des Flaschenkürbisses) zubereitet, die oft mit handgeschnitzten Mustern verziert sind.
+
+Yerba Mate ist beliebt wegen seiner positiven Wirkung auf Körper und Geist. Es enthält eine Vielzahl nützlicher Nährstoffe, darunter Vitamine (A, C, E, B-Komplex), Mineralien (Kalzium, Eisen, Kalium) und Antioxidantien.
+
+Unsere Yerba Mate Limonade vereint die erfrischende Natürlichkeit der Zitrone mit der wohltuenden Wirkung von Yerba Mate. Dieses Getränk bietet eine großartige Möglichkeit, den Geschmack und die Vorteile von Yerba Mate zu genießen, ohne ein heißes Getränk zubereiten zu müssen. Dies gibt Ihnen die Energie und Vitalität, die Sie brauchen, zusammen mit der erfrischenden und feuchtigkeitsspendenden Wirkung von Limonade.
