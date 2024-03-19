@@ -1,0 +1,15 @@
+{
+  "bgGradient": "linear(to right, green.200,blue.500)",
+  "padding": "20",
+  "maxWidth": "full",
+  "color": "white",
+  "p": {
+    "color": "white"
+  },
+  "h1": {
+    "color": "yellow.400",
+    "hover": {
+      "color": "blue.300",
+    }
+  }
+}
