@@ -3,8 +3,13 @@
 	"padding": "20",
 	"maxWidth": "full",
 	"color": "white",
+    "content": {
+        "maxWidth": "container.xl",
+        "padding": "20",
+        "marginTop": "60"
+    },
 	"p": {
-		"color": "white"
+		"color": "brand"
 	},
 	"h1": {
 		"color": "yellow.400",
