@@ -1,20 +1,19 @@
 {
-	"bgGradient": "linear(to right, green.200,blue.500)",
-	"padding": "20",
-	"maxWidth": "full",
-	"color": "white",
+    "bgGradient": "linear(to right, green.200,blue.500)",
+    "maxWidth": "full",
+    "color": "white",
     "content": {
         "maxWidth": "container.xl",
         "padding": "20",
         "marginTop": "10"
     },
-	"p": {
-		"color": "brand.500"
-	},
-	"h1": {
-		"color": "blue.800",
-		"hover": {
-			"color": "yellow.300"
-		}
-	}
+    "p": {
+        "color": "brand.500"
+    },
+    "h1": {
+        "color": "blue.800",
+        "hover": {
+            "color": "yellow.300"
+        }
+    }
 }
