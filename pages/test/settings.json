@@ -1,14 +1,14 @@
 {
-	"background": "#fff",
-	"color": "white",
+	"background": "brand.500",
+	"color": "#fff",
 	"bgImage": "/bg-blue.png",
 	"bgPosition": "center",
 	"bgSize": "cover",
 	"bgRepeat": "no-repeat",
 	"width": "full",
+	"padding": 10,
 	"content": {
 		"maxWidth": "container.xl",
-		"padding": 20,
 		"marginTop": 10,
 		"color": "white"
 	},
