@@ -1,13 +1,12 @@
 {
-    "background": "#000000",
-    "color": "#ffffff",
+    "background": "#fff",
+    "color": "#2f2e3c",
     "h1": {
         "color": "#f4d03f",
         "size": "lg",
         "textAlign": "center"
     },
     "p": {
-        "color": "#ffffff",
         "width": "full",
         "marginBottom": 2
     }
