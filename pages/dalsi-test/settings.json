@@ -9,12 +9,12 @@
         "marginTop": "60"
     },
 	"p": {
-		"color": "brand"
+		"color": "brand.500"
 	},
 	"h1": {
-		"color": "yellow.400",
+		"color": "blue.800",
 		"hover": {
-			"color": "blue.300"
+			"color": "yellow.300"
 		}
 	}
 }
