@@ -1,10 +1,11 @@
 {
     "background": "#fff",
-    "color": "#2f2e3c",
+    "color": "white",
     "bgImage": "/bg-blue.png",
     "bgPosition": "center",
     "bgSize": "cover",
     "bgRepeat": "no-repeat",
+    "width":"full",
     "content": {
         "maxWidth": "container.xl",
         "padding": "20",
