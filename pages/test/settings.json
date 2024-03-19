@@ -2,9 +2,13 @@
     "background": "#fff",
     "color": "#2f2e3c",
     "h1": {
-        "color": "#f4d03f",
-        "size": "lg",
-        "textAlign": "center"
+        "size": "xl",
+        "fontWeight": "bold",
+        "textAlign": "center",
+        "fontSize": "8xl",
+        "color": "yellow.500",
+        "lineHeight": "normal",
+        "letterSpacing": "tight"
     },
     "p": {
         "width": "full",
