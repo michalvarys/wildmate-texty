@@ -6,6 +6,11 @@ Yerba Mate je oblíbený pro své pozitivní účinky na tělo a mysl. **Obsahuj
 
 Naše Yerba Mate limonáda spojuje ojedinělá chut šípku s blahodárnými účinky Yerba Mate. Tento nápoj nabízí skvělý způsob, jak si vychutnat chuť a přínosy Yerba Mate bez nutnosti připravovat horký nápoj. Získáte tak energii a vitalitu, kterou potřebujete, spolu s osvěžujícím a hydratačním účinkem limonády.
 
-- lorem ipsum dolor sit amet
-- lorem ipsum dolor sit amet
-- lorem ipsum dolor sit amet
+- Yerba Mate limonáda spojuje ojedinělá chut šípku
+- Spolu s osvěžujícím a hydratačním účinkem limonády
+- Tento nápoj nabízí skvělý způsob, jak si vychutnat chuť
+
+
+# Výhody konzumace
+
+Yerba Mate je oblíbený pro své pozitivní účinky na tělo a mysl. **Obsahuje řadu přínosných živin,** včetně vitamínů (A, C, E, B-komplex), minerálů (vápník, železo, draslík) a antioxidantů.
