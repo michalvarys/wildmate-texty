@@ -1,27 +1,31 @@
 {
-    "background": "#fff",
-    "color": "white",
-    "bgImage": "/bg-blue.png",
-    "bgPosition": "center",
-    "bgSize": "cover",
-    "bgRepeat": "no-repeat",
-    "width":"full",
-    "content": {
-        "maxWidth": "container.xl",
-        "padding": "20",
-        "marginTop": "60"
-    },
-    "h1": {
-        "size": "xl",
-        "fontWeight": "bold",
-        "textAlign": "center",
-        "fontSize": "8xl",
-        "color": "yellow.500",
-        "lineHeight": "normal",
-        "letterSpacing": "tight"
-    },
-    "p": {
-        "width": "full",
-        "marginBottom": 2
-    }
+	"background": "#fff",
+	"color": "white",
+	"bgImage": "/bg-blue.png",
+	"bgPosition": "center",
+	"bgSize": "cover",
+	"bgRepeat": "no-repeat",
+	"width": "full",
+	"content": {
+		"maxWidth": "container.xl",
+		"padding": 20,
+		"marginTop": 10,
+		"color": "white"
+	},
+	"h1": {
+		"size": "xl",
+		"fontWeight": "bold",
+		"textAlign": "center",
+		"fontSize": "8xl",
+		"color": "yellow.500",
+		"lineHeight": "normal",
+		"letterSpacing": "tight"
+	},
+	"p": {
+		"width": "full",
+		"marginBottom": 2
+	},
+	"ul": {
+		"pl": 2
+	}
 }
