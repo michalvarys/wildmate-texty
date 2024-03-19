@@ -15,4 +15,5 @@ Naše Yerba Mate limonáda spojuje ojedinělá chut šípku s blahodárnými ú�
 
 Yerba Mate je oblíbený pro své pozitivní účinky na tělo a mysl. **Obsahuje řadu přínosných živin,** včetně vitamínů (A, C, E, B-komplex), minerálů (vápník, železo, draslík) a antioxidantů.
 
-nebo se dá vložit [nějaký odkaz](https://wildmate.cz) a třeba taky obrázek <img width="150" src="https://wildmate.cz/_next/static/media/wildmate-logo-black.45b49aa0.svg" />
+nebo se dá vložit [nějaký odkaz](https://wildmate.cz) a třeba taky obrázek
+![Alternativní text obrázku!](https://photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg "Titulek co se zobrazí po najetí na obrázek")
