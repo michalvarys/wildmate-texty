@@ -1,13 +1,15 @@
 {
     "background": "#fff",
     "color": "#2f2e3c",
-    "padding": "20",
-    "paddingTop": "60",
-    "maxWidth": "container.xl",
-    "bgImage": "bg-blue.png",
+    "bgImage": "/bg-blue.png",
     "bgPosition": "center",
     "bgSize": "cover",
     "bgRepeat": "no-repeat",
+    "content": {
+        "maxWidth": "container.xl",
+        "padding": "20",
+        "marginTop": "60"
+    },
     "h1": {
         "size": "xl",
         "fontWeight": "bold",
