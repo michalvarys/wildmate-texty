@@ -1,16 +1,16 @@
 {
     "bgGradient": "linear(to right, green.200,blue.500)",
     "maxWidth": "full",
-    "color": "white",
+    "padding": "20",
     "content": {
         "maxWidth": "container.xl",
-        "padding": "20",
         "marginTop": "10"
     },
     "p": {
         "color": "brand.500"
     },
     "h1": {
+        "size": "3xl",
         "color": "blue.800",
         "hover": {
             "color": "yellow.300"
